@@ -1,0 +1,21 @@
+filter:
+  - label: Python
+    value: python
+
+  - label: R
+    value: r
+
+  - label: SQL
+    value: sql
+
+  - label: POWER BI
+    value: power-bi
+
+  - label: NLP
+    value: nlp
+
+  - label: BAYESIAN
+    value: bayesian
+
+  - label: AWS
+    value: aws            

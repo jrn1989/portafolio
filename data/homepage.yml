@@ -1,0 +1,85 @@
+---
+banner:
+  title: Nice to meet you, I'm José
+social:
+  twitter: ""
+  linkedin: jrn89
+  github: jrn1989
+  gitlab: ""
+  facebook: ""
+  instagram: ""
+  gmail: jose.robles.noriega
+about:
+  enable: true
+  content: Data Scientist with 5 years experience
+  button:
+    btnText: Find out more
+    URL: "/about"
+skill:
+  enable: true
+  item:
+    - title: Python
+      logo: https://s3.us-east-2.amazonaws.com/portfolio.images.jrn/Python_logo.png
+      description: Pandas
+  #item:
+    - title: R
+      logo: https://s3.us-east-2.amazonaws.com/portfolio.images.jrn/R_logo.png
+      description: Dplyr
+
+    - title: SQL
+      logo: https://s3.us-east-2.amazonaws.com/portfolio.images.jrn/sql_logo.png
+      description: Joins
+
+    - title: Power BI
+      logo: https://s3.us-east-2.amazonaws.com/portfolio.images.jrn/bi_logo.png
+      description: Metrics
+
+
+experience:
+  enable: true
+  item:
+    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
+      title: init.g
+      company: Google
+      duration: November 2019
+
+hackathons:
+  enable: false
+  item:
+    - title: Hack Cambridge 2019
+      description: Climate change simulator
+      image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793405/stickers/Hack_Cambridge_101_ozoq5d.png
+      url: none
+
+certifications:
+  enable: false
+  item:
+    - title: Microsoft Azure Fundamentals
+      image: https://res.cloudinary.com/samrobbins/image/upload/v1592501459/microsoft-certified-fundamentals-badge_cpcgyn.svg
+      url: https://www.youracclaim.com/badges/b4cf7a86-eb83-478e-bfd0-9f427c3474a0/public_url
+
+education:
+  enable: true
+  item:
+    - title: MS in Data Mining
+      year: 2012 - 2014
+      academy: Lumière University Lyon 2
+      image: https://s3.us-east-2.amazonaws.com/portfolio.images.jrn/1024px-Logo_Universit%C3%A9_Lumi%C3%A8re_Lyon_2.png
+
+    - title: BSc Computer Science
+      year: 2007 - 2011
+      academy: Metropolitan Autonomous University
+      image: https://s3.us-east-2.amazonaws.com/portfolio.images.jrn/logo_uam.png
+
+
+leadership:
+  enable: false
+  item:
+    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793280/logos/logos_yl_qozav6.webp
+      title: Young Leader
+      company: The Scout Association
+      duration: September 2014 - July 2018
+portfolio:
+  filter:
+    - label: Web Dev
+      value: web-dev
