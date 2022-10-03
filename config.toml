@@ -7,7 +7,7 @@ googleAnalytics = ""
 
 # Remove this when using normally
 #themesDir = "/theme/"
-themesDir = "/theme"
+#themesDir = "/theme"
 # `
 #[module]
 #  [[module.imports]]
