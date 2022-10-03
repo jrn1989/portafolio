@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/samrobbins85/hugo-developer-portfolio?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/samrobbins85/hugo-developer-portfolio-xxx?style=for-the-badge)
 
 # Developer Portfolio
 
@@ -31,15 +31,15 @@ The repository can then be added either by cloning or adding as a submodule
 
 ```bash
 # Cloning
-git clone https://github.com/samrobbins85/hugo-developer-portfolio hugo-developer-portfolio
+git clone https://github.com/samrobbins85/hugo-developer-portfolio-xxx hugo-developer-portfolio-xxx
 # Submodule
-git submodule add https://github.com/samrobbins85/hugo-developer-portfolio hugo-developer-portfolio
+git submodule add https://github.com/samrobbins85/hugo-developer-portfolio-xxx hugo-developer-portfolio-xxx
 ```
 
 In the `config.toml` file in your site directory add
 
 ```toml
-theme="hugo-developer-portfolio"
+theme="hugo-developer-portfolio-xxx"
 ```
 
 ### Creating a new site
@@ -62,7 +62,7 @@ In the example site, the base information looks as follows
 baseURL = "http://example.com" # The URL of your site
 languageCode = "en-gb" # The language you want to display the site in
 title = "Sam Robbins" # The title you want to appear in the address bar
-theme = "hugo-developer-portfolio" # The theme, don't change this
+theme = "hugo-developer-portfolio-xxx" # The theme, don't change this
 ```
 
 #### Plugins

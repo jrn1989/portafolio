@@ -77,15 +77,15 @@ The repository can then be added either by cloning or adding as a submodule
 
 ```bash
 # Cloning
-git clone https://github.com/samrobbins85/hugo-developer-portfolio hugo-developer-portfolio
+git clone https://github.com/samrobbins85/hugo-developer-portfolio-xxx hugo-developer-portfolio-xxx
 # Submodule
-git submodule add https://github.com/samrobbins85/hugo-developer-portfolio hugo-developer-portfolio
+git submodule add https://github.com/samrobbins85/hugo-developer-portfolio-xxx hugo-developer-portfolio-xxx
 ```
 
 In the `config.toml` file in your site directory add
 
 ```toml
-theme="hugo-developer-portfolio"
+theme="hugo-developer-portfolio-xxx"
 ```
 
 ### Creating a new site
@@ -94,7 +94,7 @@ If you just want to get set up with a new site, you can start from the Example S
 
 1. Cut the `exampleSite` folder out of the theme and paste it wherever you want
 2. Create a `theme` directory within the `exampleSite folder`
-3. Paste the theme into this directory, ensuring is has the name `hugo-developer-portfolio`
+3. Paste the theme into this directory, ensuring is has the name `hugo-developer-portfolio-xxx`
 
 ## CMS
 
@@ -116,7 +116,7 @@ In the example site, the base information looks as follows
 baseURL = "http://example.com" # The URL of your site
 languageCode = "en-gb" # The language you want to display the site in
 title = "Sam Robbins" # The title you want to appear in the address bar
-theme = "hugo-developer-portfolio" # The theme, don't change this
+theme = "hugo-developer-portfolio-xxx" # The theme, don't change this
 ```
 
 #### Plugins
