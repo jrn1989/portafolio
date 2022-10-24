@@ -1,7 +1,7 @@
 # Base information
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "José Robles Noriega"
+title = "JRN"
 theme = "hugo-developer-portfolio"
 googleAnalytics = ""
 
@@ -56,7 +56,7 @@ home = "Home"
 # Meta data
 description = "The website of José Robles, Data Scientist in located in Mexico City"
 author = "José Robles"
-
+project1 = "income_model_r_version"
 
   [params.contact]
   enable = true
