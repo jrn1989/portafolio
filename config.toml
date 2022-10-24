@@ -1,7 +1,7 @@
 # Base information
-baseURL = "https://example.com"
+baseURL = "https://jrn-ds.net"
 languageCode = "en-us"
-title = "JRN"
+title = "José Robles Noriega"
 theme = "hugo-developer-portfolio"
 googleAnalytics = ""
 
