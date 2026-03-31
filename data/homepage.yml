@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Bridging human intuition and machine intelligence
+  title: Hello, I'm José
 social:
   twitter: ""
   linkedin: jrn89
@@ -11,7 +11,7 @@ social:
   gmail: jose.robles.noriega
 about:
   enable: true
-  content: Data Scientist with 5 years experience
+  content: Data Scientist with +8 years of experience, bridging human intuition and machine intelligence.
   button:
     btnText: Find out more
     URL: "/about"
@@ -39,9 +39,17 @@ experience:
   enable: true
   item:
     - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
-      title: init.g
-      company: Google
-      duration: November 2019
+      title: Data Scientist Senior
+      company: Arena Analytics
+      duration: Jan 2021 - Present
+    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
+      title: Data Scientist
+      company: Uniclick
+      duration: Nov 2019 - Nov 2020
+    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
+      title: Data Scientist Jr
+      company: Arena Analytics
+      duration: Dic 2017 - Nov 2019
 
 hackathons:
   enable: false
@@ -54,7 +62,7 @@ hackathons:
 certifications:
   enable: false
   item:
-    - title: Microsoft Azure Fundamentals
+    - title: Microsoft Azure AI Fundamentals
       image: https://res.cloudinary.com/samrobbins/image/upload/v1592501459/microsoft-certified-fundamentals-badge_cpcgyn.svg
       url: https://www.youracclaim.com/badges/b4cf7a86-eb83-478e-bfd0-9f427c3474a0/public_url
 
